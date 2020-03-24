@@ -1,8 +1,9 @@
-{ NAME: Majid
-  Familly: Ebrahimi
-  Abstract: This program converts square meters to square yards.
-}
 program Metric (Input, Output);                  {Converts square meters to square yards.}
+{
+  Programmer: Majid Ebrahimi           Date completed: Mar 23, 2020
+  Instructor: Okuz.ir                  Class: 
+  This program converts square meters to square yards. 
+}   
 const 
 MetersToYards = 1.196;                           {Conversion constant}
 var
