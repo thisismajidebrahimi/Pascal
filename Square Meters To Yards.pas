@@ -1,7 +1,7 @@
 program Metric (Input, Output);                  {Converts square meters to square yards.}
 {
   Programmer: Majid Ebrahimi           Date completed: Mar 23, 2020
-  Instructor: Okuz.ir                  Class: 
+  Instructor: Okuz.ir                   
   This program converts square meters to square yards. 
 }   
 const 
